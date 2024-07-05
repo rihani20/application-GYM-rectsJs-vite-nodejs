@@ -1,0 +1,9 @@
+#backend
+/Backend/node_modules
+/Backend/.env
+
+#frontend
+Frontend/node_modules
+Frontend/.pnp
+Frontend/.pnp.js
+Frontend/build
